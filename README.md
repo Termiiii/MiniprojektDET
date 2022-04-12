@@ -64,7 +64,7 @@
 
 -player overhaul 1 (dashing, double jump, better physics, maybe better sprite)
 
--game menu (highscore, new game, exit, options) - fully integrated into the demo game.
+-game menu (highscore, new game, exit, options, pause) - fully integrated into the demo game.
 
 -projectiles - todo for when someone can do them
 
