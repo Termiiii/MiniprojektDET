@@ -4,7 +4,7 @@
 
   -Demo player that can jump, move, die
 
-  -Demo Map that endlessly scrolls to the right and contains tiles
+  -Demo Map that endlessly scrolls to the right, contains tiles, continiously spawns new tiles and despawns old ones
 
   -1 way of dealing damage to the player (falling out of map)
 
