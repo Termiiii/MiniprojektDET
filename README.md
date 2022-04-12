@@ -2,6 +2,10 @@
 
 # State of the Endless Scroller Game:
 
+![image](https://user-images.githubusercontent.com/43958643/162927534-273b90b1-7328-4461-adbe-510801eb94f6.png)
+
+![image](https://user-images.githubusercontent.com/43958643/162927470-ee7e2759-6f1c-4c25-b43c-b7ebffa5e608.png)
+
   -Demo player that can jump, move, die
 
   -Demo Map that endlessly scrolls to the right, contains tiles, continiously spawns new tiles and despawns old ones
