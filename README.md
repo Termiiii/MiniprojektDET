@@ -1,10 +1,10 @@
 # MiniprojektDET
 
-# State of the Endless Scroller Game:
-
 ![image](https://user-images.githubusercontent.com/43958643/162927534-273b90b1-7328-4461-adbe-510801eb94f6.png)
 
 ![image](https://user-images.githubusercontent.com/43958643/162927470-ee7e2759-6f1c-4c25-b43c-b7ebffa5e608.png)
+
+# State of the Endless Scroller Game:
 
   -Demo player that can jump, move, die
 
